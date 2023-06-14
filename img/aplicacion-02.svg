@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 510.2 535.6" style="enable-background:new 0 0 510.2 535.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4F7F97;}
+	.st1{fill:#F4F2EC;}
+	.st2{font-family:'AlegreyaSansSC-Black';}
+	.st3{font-size:57.1511px;}
+	.st4{fill:none;}
+	.st5{font-family:'AlegreyaSans-Regular';}
+	.st6{font-size:13.1887px;}
+	.st7{clip-path:url(#SVGID_00000072240116168429564960000016447372348723242168_);}
+	.st8{clip-path:url(#SVGID_00000037694705001918570250000008906481296301628544_);}
+	.st9{fill:#AEC4D5;}
+	.st10{fill:#75A83A;}
+	.st11{font-size:17.585px;}
+	.st12{fill:#FFFFFF;}
+	.st13{font-family:'AlegreyaSans-Bold';}
+</style>
+<rect x="3.5" y="270.4" class="st0" width="502.2" height="62.3"/>
+<text transform="matrix(1 0 0 1 138.0103 319.2639)" class="st1 st2 st3">100 buses</text>
+<rect x="6" y="358.3" class="st4" width="110.1" height="180.1"/>
+<text transform="matrix(1 0 0 1 5.9985 367.5358)"><tspan x="0" y="0" class="st5 st6">El tamaño de la </tspan><tspan x="0" y="15.8" class="st5 st6">oportunidad se </tspan><tspan x="0" y="31.7" class="st5 st6">estima sobre la suma </tspan><tspan x="0" y="47.5" class="st5 st6">de buses rural e </tspan><tspan x="0" y="63.3" class="st5 st6">interurbano de 100 </tspan><tspan x="0" y="79.1" class="st5 st6">buses. El mayor </tspan><tspan x="0" y="95" class="st5 st6">alcance podría </tspan><tspan x="0" y="110.8" class="st5 st6">originarse sobre el </tspan><tspan x="0" y="126.6" class="st5 st6">traslado de </tspan><tspan x="0" y="142.4" class="st5 st6">profesionales de la </tspan><tspan x="0" y="158.3" class="st5 st6">minería regional.</tspan></text>
+<rect x="12.2" y="165" class="st4" width="104" height="82.3"/>
+<text transform="matrix(1 0 0 1 36.6768 174.2546)"><tspan x="0" y="0" class="st5 st6">EL 47% del </tspan><tspan x="-19.6" y="15.8" class="st5 st6">transporte publico </tspan><tspan x="-18.1" y="31.7" class="st5 st6">rural se desarrolla </tspan><tspan x="-14.1" y="47.5" class="st5 st6">en la comuna de </tspan><tspan x="-5.5" y="63.3" class="st5 st6">Antofagasta.</tspan></text>
+<rect x="146.9" y="165" class="st4" width="104" height="82.3"/>
+<text transform="matrix(1 0 0 1 172.1934 174.2546)"><tspan x="0" y="0" class="st5 st6">El 84% del </tspan><tspan x="-0.2" y="15.8" class="st5 st6">transporte </tspan><tspan x="-18.1" y="31.7" class="st5 st6">interurbano tiene </tspan><tspan x="-24.6" y="47.5" class="st5 st6">como base la ciudad </tspan><tspan x="-0.2" y="63.3" class="st5 st6">de Calama</tspan></text>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="294.3" y="45.8" width="213.3" height="192.2"/>
+	</defs>
+	<clipPath id="SVGID_00000116929319734676225610000003098970971524025509_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000116929319734676225610000003098970971524025509_);">
+		<defs>
+			<rect id="SVGID_00000039813089393059177090000012090477706244042174_" x="294.3" y="45.8" width="214.2" height="193.1"/>
+		</defs>
+		<clipPath id="SVGID_00000130626278105814252080000006318968442621680512_">
+			<use xlink:href="#SVGID_00000039813089393059177090000012090477706244042174_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000130626278105814252080000006318968442621680512_);">
+			<defs>
+				<rect id="SVGID_00000013891105428589048860000015961187525876452279_" x="294.3" y="45.8" width="213.3" height="192.2"/>
+			</defs>
+			<clipPath id="SVGID_00000047741799606914334430000014564043777992389772_">
+				<use xlink:href="#SVGID_00000013891105428589048860000015961187525876452279_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_00000047741799606914334430000014564043777992389772_);">
+				
+					<image style="overflow:visible;" width="1000" height="899" xlink:href="4B3874121BC971FC.png"  transform="matrix(0.2133 0 0 0.2138 294.326 45.7826)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<path class="st9" d="M198.6,95.5v-57c31.5,0,57,25.5,57,57s-25.5,57-57,57s-57-25.5-57-57s25.5-57,57-57l0,0V95.5z"/>
+<path class="st9" d="M68.5,95.5v-57c31.5,0,57,25.5,57,57s-25.5,57-57,57s-57-25.5-57-57s25.5-57,57-57l0,0V95.5z"/>
+<path class="st10" d="M68.5,95.5V56.4c21.6,0,39.1,17.5,39.1,39.1s-17.5,39.1-39.1,39.1s-39.1-17.5-39.1-39.1S47,56.4,68.5,56.4l0,0
+	V95.5z"/>
+<path class="st10" d="M198.6,95.5V43.2c28.9,0,52.2,23.4,52.2,52.2s-23.4,52.2-52.2,52.2s-52.2-23.4-52.2-52.2s23.4-52.2,52.2-52.2
+	l0,0V95.5z"/>
+<text transform="matrix(1 0 0 1 26.6167 27.3928)" class="st5 st11">Antofagasta</text>
+<text transform="matrix(1 0 0 1 172.6743 27.3928)" class="st5 st11">Calama</text>
+<text transform="matrix(1 0 0 1 52.8081 95.4738)" class="st12 st13 st11">47%</text>
+<text transform="matrix(1 0 0 1 182.3374 95.4738)" class="st12 st13 st11">84%</text>
+<path class="st9" d="M324,412.2v-53.9c29.8,0,53.9,24.1,53.9,53.9c0,29.8-24.1,53.9-53.9,53.9c-29.8,0-53.9-24.1-53.9-53.9
+	c0-29.8,24.1-53.9,53.9-53.9l0,0V412.2z"/>
+<path class="st9" d="M447.2,412.2v-53.9c29.8,0,53.9,24.1,53.9,53.9c0,29.8-24.1,53.9-53.9,53.9s-53.9-24.1-53.9-53.9
+	c0-29.8,24.1-53.9,53.9-53.9l0,0V412.2z"/>
+<path class="st10" d="M200.8,412.2v-53.9c29.8,0,53.9,24.1,53.9,53.9c0,29.8-24.1,53.9-53.9,53.9s-53.9-24.1-53.9-53.9
+	c0-29.8,24.1-53.9,53.9-53.9l0,0V412.2z"/>
+<path class="st10" d="M324,412.2v-38.1c21,0,38.1,17.1,38.1,38.1c0,21-17.1,38.1-38.1,38.1c-21,0-38.1-17.1-38.1-38.1
+	c0-21,17.1-38.1,38.1-38.1l0,0V412.2z"/>
+<path class="st10" d="M447.2,412.2v-17c9.4,0,17,7.6,17,17c0,9.4-7.6,17-17,17c-9.4,0-17-7.6-17-17c0-9.4,7.6-17,17-17l0,0V412.2z"
+	/>
+<text transform="matrix(1 0 0 1 181.2354 414.3747)" class="st12 st13 st11">100%</text>
+<text transform="matrix(1 0 0 1 431.9678 414.3747)" class="st12 st13 st11">10%</text>
+<text transform="matrix(1 0 0 1 309.79 414.3747)" class="st12 st13 st11">50%</text>
+<image style="overflow:visible;" width="66" height="70" xlink:href="4B3874121BC97202.jpg"  transform="matrix(0.48 0 0 0.48 182.88 475.0955)">
+</image>
+<image style="overflow:visible;" width="66" height="70" xlink:href="4B3874121BC97205.jpg"  transform="matrix(0.48 0 0 0.48 431.3817 475.0955)">
+</image>
+<image style="overflow:visible;" width="66" height="70" xlink:href="4B3874121BC97206.jpg"  transform="matrix(0.48 0 0 0.48 308.1859 475.0955)">
+</image>
+</svg>

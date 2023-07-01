@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 488.9" style="enable-background:new 0 0 1024 488.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#211915;}
+	.st2{font-family:'Roboto-Light';}
+	.st3{font-size:22.4px;}
+	.st4{font-family:'Roboto-Bold';}
+	.st5{font-family:'Roboto-Black';}
+	.st6{font-size:39.2px;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#211915;stroke-width:0.7245;stroke-miterlimit:10;}
+	.st8{clip-path:url(#SVGID_00000092424236720844663190000001075502288058943360_);}
+	.st9{font-size:4.4209px;}
+	.st10{fill:none;stroke:#000000;stroke-width:2.8;stroke-miterlimit:10;}
+	.st11{fill:#E2DFD6;}
+	.st12{fill:#C3C86E;}
+	.st13{clip-path:url(#SVGID_00000035518398606686553020000005862248949620258445_);}
+	.st14{clip-path:url(#SVGID_00000129169246809989794710000002657569892628564660_);}
+</style>
+<g>
+	<rect x="12.4" y="51" class="st0" width="433.3" height="166"/>
+	<text transform="matrix(1 0 0 1 12.4038 67.8267)"><tspan x="0" y="0" class="st1 st2 st3">Una potencia instalada de electrolizador de </tspan><tspan x="0" y="26.9" class="st1 st2 st3">150 MW que implicaría un consumo de </tspan><tspan x="0" y="53.8" class="st1 st2 st3">agua diario de 151 m3. Y permitiría una </tspan><tspan x="0" y="80.6" class="st1 st2 st3">reducción de emisiones de 91% </tspan><tspan x="0" y="107.5" class="st1 st2 st3">aproximadamente</tspan></text>
+</g>
+<text transform="matrix(1 0 0 1 12.4036 265.9434)"><tspan x="0" y="0" class="st1 st2 st3">Horas operación al año, h</tspan><tspan x="0" y="56" class="st1 st2 st3">Flujo H2 requerido, ton al año</tspan><tspan x="0" y="112" class="st1 st2 st3">Potencia requerida para electrolizador, MW</tspan><tspan x="0" y="168" class="st1 st2 st3">Reducción de CO2, %</tspan></text>
+<text transform="matrix(1 0 0 1 611.4951 45)" class="st1 st4 st3">% reemplazo de GN por H2</text>
+<g>
+	<text transform="matrix(1 0 0 1 540.8633 188.834)" class="st1 st5 st6">25%</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 541.7383 265.9434)"><tspan x="0" y="0" class="st1 st2 st3">2.488 h</tspan><tspan x="-9.9" y="56" class="st1 st2 st3">6.136 ton</tspan><tspan x="1.5" y="112" class="st1 st2 st3">37 MW</tspan><tspan x="13.5" y="168" class="st1 st2 st3">9,1%</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 723.2422 188.834)" class="st1 st5 st6">50%</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 724.1172 265.9434)"><tspan x="0" y="0" class="st1 st2 st3">2.488 h</tspan><tspan x="-16.1" y="56" class="st1 st2 st3">15.692 ton</tspan><tspan x="1.5" y="112" class="st1 st2 st3">96 MW</tspan><tspan x="7.3" y="168" class="st1 st2 st3">23,8%</tspan></text>
+</g>
+<line class="st7" x1="670.5" y1="148.7" x2="670.5" y2="453.1"/>
+<g>
+	<text transform="matrix(1 0 0 1 894.2695 188.834)" class="st1 st5 st6">100%</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 906.4941 265.9434)"><tspan x="0" y="0" class="st1 st2 st3">2.488 h</tspan><tspan x="-16.1" y="56" class="st1 st2 st3">65.894 ton</tspan><tspan x="-4.7" y="112" class="st1 st2 st3">812 MW</tspan><tspan x="9.5" y="168" class="st1 st2 st3">100%</tspan></text>
+</g>
+<line class="st7" x1="852.9" y1="148.7" x2="852.9" y2="453.1"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M646.1,114.6H505.8c-2.3,0-4.3-1.9-4.3-4.3V94.6c0-2.3,1.9-4.3,4.3-4.3h140.2c2.3,0,4.3,1.9,4.3,4.3v15.7
+			C650.3,112.6,648.4,114.6,646.1,114.6z"/>
+	</defs>
+	<clipPath id="SVGID_00000103959452473123066390000000381221538332687258_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g>
+		<g style="clip-path:url(#SVGID_00000103959452473123066390000000381221538332687258_);">
+			<g>
+				<text transform="matrix(1 0 0 1 500.0405 130.2637)" class="st2 st9">0</text>
+				<text transform="matrix(1 0 0 1 528.7451 130.2637)" class="st2 st9">20</text>
+				<text transform="matrix(1 0 0 1 558.6729 130.2637)" class="st2 st9">40</text>
+				<text transform="matrix(1 0 0 1 588.6045 130.2637)" class="st2 st9">60</text>
+				<text transform="matrix(1 0 0 1 618.5322 130.2637)" class="st2 st9">80</text>
+				<text transform="matrix(1 0 0 1 647.2354 130.2637)" class="st2 st9">100</text>
+			</g>
+			<line class="st10" x1="501.3" y1="126.2" x2="650.9" y2="126.2"/>
+			<g>
+				<g>
+					<line class="st10" x1="501.3" y1="126.2" x2="501.3" y2="125"/>
+					<line class="st10" x1="531.2" y1="126.2" x2="531.2" y2="125"/>
+					<line class="st10" x1="561.1" y1="126.2" x2="561.1" y2="125"/>
+					<line class="st10" x1="591.1" y1="126.2" x2="591.1" y2="125"/>
+					<line class="st10" x1="621" y1="126.2" x2="621" y2="125"/>
+					<line class="st10" x1="650.9" y1="126.2" x2="650.9" y2="125"/>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000103959452473123066390000000381221538332687258_);">
+			<line class="st0" x1="501.3" y1="126.2" x2="501.3" y2="79.1"/>
+			<g>
+				<g>
+					<line class="st0" x1="501.3" y1="102.6" x2="505" y2="102.6"/>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000103959452473123066390000000381221538332687258_);">
+			<g>
+				<g>
+					<rect x="538.7" y="85.7" class="st11" width="112.2" height="34"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="501.3" y="85.7" class="st12" width="37.4" height="34"/>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000103959452473123066390000000381221538332687258_);">
+			<g>
+			</g>
+			<g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_00000031900856145650744660000015979121256164333963_" d="M828,114.6H687.8c-2.3,0-4.3-1.9-4.3-4.3V94.6
+			c0-2.3,1.9-4.3,4.3-4.3H828c2.3,0,4.3,1.9,4.3,4.3v15.7C832.3,112.6,830.4,114.6,828,114.6z"/>
+	</defs>
+	<clipPath id="SVGID_00000003784044608172621520000006019602815123032507_">
+		<use xlink:href="#SVGID_00000031900856145650744660000015979121256164333963_"  style="overflow:visible;"/>
+	</clipPath>
+	<g>
+		<g style="clip-path:url(#SVGID_00000003784044608172621520000006019602815123032507_);">
+			<g>
+				<text transform="matrix(1 0 0 1 682.0107 130.2637)" class="st2 st9">0</text>
+				<text transform="matrix(1 0 0 1 710.7148 130.2637)" class="st2 st9">20</text>
+				<text transform="matrix(1 0 0 1 740.6426 130.2637)" class="st2 st9">40</text>
+				<text transform="matrix(1 0 0 1 770.5742 130.2637)" class="st2 st9">60</text>
+				<text transform="matrix(1 0 0 1 800.502 130.2637)" class="st2 st9">80</text>
+				<text transform="matrix(1 0 0 1 829.2051 130.2637)" class="st2 st9">100</text>
+			</g>
+			<line class="st10" x1="683.2" y1="126.2" x2="832.9" y2="126.2"/>
+			<g>
+				<g>
+					<line class="st10" x1="683.2" y1="126.2" x2="683.2" y2="125"/>
+					<line class="st10" x1="713.2" y1="126.2" x2="713.2" y2="125"/>
+					<line class="st10" x1="743.1" y1="126.2" x2="743.1" y2="125"/>
+					<line class="st10" x1="773" y1="126.2" x2="773" y2="125"/>
+					<line class="st10" x1="803" y1="126.2" x2="803" y2="125"/>
+					<line class="st10" x1="832.9" y1="126.2" x2="832.9" y2="125"/>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000003784044608172621520000006019602815123032507_);">
+			<line class="st0" x1="683.2" y1="126.2" x2="683.2" y2="79.1"/>
+			<g>
+				<g>
+					<line class="st0" x1="683.2" y1="102.6" x2="687" y2="102.6"/>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000003784044608172621520000006019602815123032507_);">
+			<g>
+				<g>
+					<rect x="758.1" y="85.7" class="st11" width="74.8" height="34"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="683.2" y="85.7" class="st12" width="74.8" height="34"/>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000003784044608172621520000006019602815123032507_);">
+			<g>
+			</g>
+			<g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_00000121252079140533397040000004637408822302812089_" d="M1010,114.6H869.8c-2.3,0-4.3-1.9-4.3-4.3V94.6
+			c0-2.3,1.9-4.3,4.3-4.3H1010c2.3,0,4.3,1.9,4.3,4.3v15.7C1014.3,112.6,1012.4,114.6,1010,114.6z"/>
+	</defs>
+	<clipPath id="SVGID_00000132800019097116372370000004092574173084373892_">
+		<use xlink:href="#SVGID_00000121252079140533397040000004637408822302812089_"  style="overflow:visible;"/>
+	</clipPath>
+	<g>
+		<g style="clip-path:url(#SVGID_00000132800019097116372370000004092574173084373892_);">
+			<g>
+				<text transform="matrix(1 0 0 1 863.9805 130.2637)" class="st2 st9">0</text>
+				<text transform="matrix(1 0 0 1 892.6846 130.2637)" class="st2 st9">20</text>
+				<text transform="matrix(1 0 0 1 922.6123 130.2637)" class="st2 st9">40</text>
+				<text transform="matrix(1 0 0 1 952.5439 130.2637)" class="st2 st9">60</text>
+				<text transform="matrix(1 0 0 1 982.4717 130.2637)" class="st2 st9">80</text>
+				<text transform="matrix(1 0 0 1 1011.1748 130.2637)" class="st2 st9">100</text>
+			</g>
+			<line class="st10" x1="865.2" y1="126.2" x2="1014.9" y2="126.2"/>
+			<g>
+				<g>
+					<line class="st10" x1="865.2" y1="126.2" x2="865.2" y2="125"/>
+					<line class="st10" x1="895.1" y1="126.2" x2="895.1" y2="125"/>
+					<line class="st10" x1="925.1" y1="126.2" x2="925.1" y2="125"/>
+					<line class="st10" x1="955" y1="126.2" x2="955" y2="125"/>
+					<line class="st10" x1="984.9" y1="126.2" x2="984.9" y2="125"/>
+					<line class="st10" x1="1014.9" y1="126.2" x2="1014.9" y2="125"/>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000132800019097116372370000004092574173084373892_);">
+			<line class="st0" x1="865.2" y1="126.2" x2="865.2" y2="79.1"/>
+			<g>
+				<g>
+					<line class="st0" x1="865.2" y1="102.6" x2="868.9" y2="102.6"/>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000132800019097116372370000004092574173084373892_);">
+			<g>
+				<g>
+					<rect x="1014.9" y="85.7" class="st11" width="0" height="34"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="865.2" y="85.7" class="st12" width="149.6" height="34"/>
+				</g>
+			</g>
+		</g>
+		<g style="clip-path:url(#SVGID_00000132800019097116372370000004092574173084373892_);">
+			<g>
+			</g>
+			<g>
+			</g>
+		</g>
+	</g>
+</g>
+<line class="st7" x1="12.4" y1="286.9" x2="1014.3" y2="286.9"/>
+<line class="st7" x1="12.4" y1="344.4" x2="1014.3" y2="344.4"/>
+<line class="st7" x1="12.4" y1="401.8" x2="1014.3" y2="401.8"/>
+</svg>

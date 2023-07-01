@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 488.9" style="enable-background:new 0 0 1024 488.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#211915;}
+	.st2{font-family:'Roboto-Light';}
+	.st3{font-size:24px;}
+	.st4{font-size:22.4px;}
+	.st5{font-family:'Roboto-Black';}
+	.st6{font-size:39.2px;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#211915;stroke-width:0.84;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="11.5" y="55.5" class="st0" width="397.4" height="166"/>
+	<text transform="matrix(1 0 0 1 11.4658 73.5054)"><tspan x="0" y="0" class="st1 st2 st3">El reemplazo de dichos propanos por </tspan><tspan x="0" y="28.8" class="st1 st2 st3">equipos a celdas de combustible a </tspan><tspan x="0" y="57.6" class="st1 st2 st3">hidrógeno, implicarían la reducción de </tspan><tspan x="0" y="86.4" class="st1 st2 st3">1.937 toneladas año de CO2 </tspan><tspan x="0" y="115.2" class="st1 st2 st3">aproximadamente.</tspan></text>
+</g>
+<text transform="matrix(1 0 0 1 11.466 270.4219)"><tspan x="0" y="0" class="st1 st2 st4">Consumo Propano flota al año, l/año</tspan><tspan x="0" y="56" class="st1 st2 st4">Consumo H2 flota al año, ton/año</tspan><tspan x="0" y="112" class="st1 st2 st4">Potencia instalada requerida,  MW </tspan><tspan x="0" y="168" class="st1 st2 st4">Emisión de CO2 año, ton CO2/año</tspan></text>
+<g>
+	<text transform="matrix(1 0 0 1 578.123 137.3125)"><tspan x="0" y="0" class="st1 st5 st6">100</tspan><tspan x="6.2" y="28" class="st1 st2 st4">grúas</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 909.5508 137.3125)"><tspan x="0" y="0" class="st1 st5 st6">20</tspan><tspan x="-5.1" y="28" class="st1 st2 st4">grúas</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 749.248 137.3125)"><tspan x="0" y="0" class="st1 st5 st6">50</tspan><tspan x="-5.1" y="28" class="st1 st2 st4">grúas</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 563.376 270.4219)"><tspan x="0" y="0" class="st1 st2 st4">3.316.021</tspan><tspan x="30.2" y="56" class="st1 st2 st4">120</tspan><tspan x="5.6" y="112" class="st1 st2 st4">0,73 MW</tspan><tspan x="21.3" y="168" class="st1 st2 st4">1.937</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 892.3359 270.4219)"><tspan x="0" y="0" class="st1 st2 st4">663.204</tspan><tspan x="27.5" y="56" class="st1 st2 st4">24</tspan><tspan x="-3.3" y="112" class="st1 st2 st4">0,15 MW</tspan><tspan x="21.3" y="168" class="st1 st2 st4">387</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 723.1514 270.4219)"><tspan x="0" y="0" class="st1 st2 st4">1.658.010</tspan><tspan x="36.4" y="56" class="st1 st2 st4">60</tspan><tspan x="5.6" y="112" class="st1 st2 st4">0,37 MW</tspan><tspan x="30.2" y="168" class="st1 st2 st4">968</tspan></text>
+</g>
+<line class="st7" x1="11.5" y1="293.4" x2="1015.1" y2="293.4"/>
+<line class="st7" x1="11.5" y1="348.3" x2="1015.1" y2="348.3"/>
+<line class="st7" x1="11.5" y1="403.2" x2="1015.1" y2="403.2"/>
+<line class="st7" x1="522.2" y1="48.4" x2="522.2" y2="457.6"/>
+<line class="st7" x1="696.3" y1="48.4" x2="696.3" y2="457.6"/>
+<line class="st7" x1="854" y1="48.4" x2="854" y2="457.6"/>
+<image style="overflow:visible;" width="252" height="303" xlink:href="../../infografia-plegada/forklift-frente.jpg"  transform="matrix(0.2481 0 0 0.2481 580.8138 16.5729)">
+</image>
+<image style="overflow:visible;" width="252" height="303" xlink:href="../../infografia-plegada/forklift-frente.jpg"  transform="matrix(0.2481 0 0 0.2481 743.8983 16.5729)">
+</image>
+<image style="overflow:visible;" width="252" height="303" xlink:href="../../infografia-plegada/forklift-frente.jpg"  transform="matrix(0.2481 0 0 0.2481 900.1967 16.5729)">
+</image>
+</svg>
